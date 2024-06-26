@@ -12,15 +12,6 @@
 	<a href="badak2.html">pencet lagi</a>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
